@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Resto.Front.Api.CheckpointPlugin.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ServiceUrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://crm-dev.logus.pro/api</Value>
+    </Setting>
+    <Setting Name="ServiceToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">aa4484f071e2b0765812527fd1caab849c968c99</Value>
+    </Setting>
+    <Setting Name="PosCode" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">IIKO</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
